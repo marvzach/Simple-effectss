@@ -1,0 +1,32 @@
+img {
+  display: none;
+  height: 200px;
+}
+.walrus-showing {
+  display: none;
+}
+p {
+cursor: pointer;
+color: red;
+}
+
+p:hover {
+text-decoration: underline;
+}
+.walrus-showing {
+        display: none;
+      }
+
+      .clickable {
+        cursor: pointer;
+        color: green;
+      }
+
+      .clickable:hover {
+        text-decoration: underline;
+        color: yellow;
+      }
+
+      #walrus-showing {
+              display: none;
+            }
